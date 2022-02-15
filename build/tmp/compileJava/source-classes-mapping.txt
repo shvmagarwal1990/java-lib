@@ -1,0 +1,2 @@
+com/rakuten/internallib/SampleLibrary.java
+ com.rakuten.internallib.SampleLibrary
